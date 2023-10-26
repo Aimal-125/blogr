@@ -426,6 +426,7 @@ h4 {
 	.text-container .laptop-hd1 {
 		font-size: 28px;
 		padding-left: 7px;
+		color: hsl(207, 44%, 24%);
 	}
 	.text-container .laptop-text1 {
 		margin-top: 25px;
@@ -437,6 +438,7 @@ h4 {
 		margin-top: 40px;
 		font-size: 28px;
 		padding-left: 7px;
+		color: hsl(207, 44%, 24%);
 	}
 	.text-container .laptop-text2 {
 		margin-top: 25px;
@@ -841,6 +843,7 @@ h4 {
 	}
 	.text-container .laptop-hd1 {
 		font-size: 28px;
+		color: hsl(207, 44%, 24%);
 	}
 	.text-container .laptop-text1 {
 		font-size: 16px;
@@ -849,6 +852,7 @@ h4 {
 	.text-container .laptop-hd2 {
 		padding-top: 50px;
 		font-size: 28px;
+		color: hsl(207, 44%, 24%);
 	}
 	.text-container .laptop-text2 {
 		line-height: 30px;
