@@ -341,7 +341,7 @@ h4 {
 	margin-top: 76px;
 	font-size: 13px;
 	font-family: ubuntu;
-	font-weight: 400;
+	font-weight: bold;
 	color: white;
 }
 .f-links-div {
@@ -1080,7 +1080,7 @@ h4 {
 		margin-top: 0;
 		font-size: 18px;
 		font-family: ubuntu;
-		font-weight: 400;
+		font-weight: bold;
 		color: white;
 		margin-bottom: 20px;
 	}
